@@ -6,5 +6,6 @@ Install python 3
 Double Click to run
 
 Screenshots:
+
 ![Game Screen](screenshots/Bounce_Game.png) 
 ![Game Over Screen](screenshots/Bounce_GameOver.png) 
